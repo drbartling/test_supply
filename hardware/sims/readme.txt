@@ -1,0 +1,1 @@
+Simulated using LT Spice
