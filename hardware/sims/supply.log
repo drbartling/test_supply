@@ -239,21 +239,21 @@ Ignoring empty pin current: Ix(u1:18)
 .step rhigh=19812 rprog=39890
 .step rhigh=19890 rprog=39890
 
-Date: Mon Apr 24 17:25:12 2017
-Total elapsed time: 70.711 seconds.
+Date: Tue Apr 25 11:03:37 2017
+Total elapsed time: 95.152 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 49441
-traniter = 40634
-tranpoints = 20287
-accept = 20220
-rejected = 67
+totiter = 49425
+traniter = 40615
+tranpoints = 20277
+accept = 20211
+rejected = 66
 matrix size = 106
-fillins = 230
+fillins = 211
 solver = Normal
-Thread vector: 41.9/12.7[8] 9.7/3.8[8] 4.7/2.0[8] 0.6/2.0[1]  2592/500
-Matrix Compiler1: 19.33 KB object code size  5.0/2.7/[1.1]
-Matrix Compiler2: 15.10 KB object code size  2.0/3.1/[1.0]
+Thread vector: 39.1/26.2[8] 10.9/4.0[8] 4.8/2.3[7] 1.0/4.4[1]  2592/500
+Matrix Compiler1: 17.32 KB object code size  5.0/2.4/[1.0]
+Matrix Compiler2: 14.78 KB object code size  1.8/2.3/[1.8]
 
