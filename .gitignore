@@ -1,1 +1,2 @@
-*.raw
+hardware/sims/*.log
+hardware/sims/*.raw
