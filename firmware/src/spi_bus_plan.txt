@@ -1,0 +1,3 @@
+spi_bus_plan
+
+spi bus object has pointer to string of data to put on the bus.
